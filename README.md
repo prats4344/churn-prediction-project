@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-# churn-prediction-project
-End-to-end machine learning project to predict customer churn
-=======
+
 <h1 align="center">📊 End-to-End Customer Churn Prediction 🚀</h1>
 
 
