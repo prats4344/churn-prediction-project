@@ -34,6 +34,14 @@ class InputData(BaseModel):
 # 3. Create a FastAPI app instance
 app = FastAPI()
 
+# --- THIS IS THE NEW PART WE ARE ADDING ---
+# This creates a "welcome" message at the base URL (the "/")
+@app.get("/")
+def read_root():
+    return {"message": "Churn Prediction API is running!"}
+# --- END OF NEW PART ---
+
+
 # 4. Load the trained model, scaler, and columns
 with open('final_model.pkl', 'rb') as f:
     model = pickle.load(f)
