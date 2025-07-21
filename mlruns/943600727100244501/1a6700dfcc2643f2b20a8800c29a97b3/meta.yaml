@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/soubh/OneDrive/Desktop/churn-project/mlruns/943600727100244501/1a6700dfcc2643f2b20a8800c29a97b3/artifacts
+end_time: 1753113728871
+entry_point_name: ''
+experiment_id: '943600727100244501'
+lifecycle_stage: active
+run_id: 1a6700dfcc2643f2b20a8800c29a97b3
+run_name: stylish-rook-781
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753113728812
+status: 4
+tags: []
+user_id: soubh

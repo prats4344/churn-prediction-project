@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/soubh/OneDrive/Desktop/churn-project/mlruns/943600727100244501/b814e4faf9c94f108b833b3a83ab5299/artifacts
+end_time: 1753114663122
+entry_point_name: ''
+experiment_id: '943600727100244501'
+lifecycle_stage: active
+run_id: b814e4faf9c94f108b833b3a83ab5299
+run_name: adorable-steed-942
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753114662482
+status: 3
+tags: []
+user_id: soubh

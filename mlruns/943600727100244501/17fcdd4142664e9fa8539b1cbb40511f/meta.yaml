@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/soubh/OneDrive/Desktop/churn-project/mlruns/943600727100244501/17fcdd4142664e9fa8539b1cbb40511f/artifacts
+end_time: 1753114669137
+entry_point_name: ''
+experiment_id: '943600727100244501'
+lifecycle_stage: active
+run_id: 17fcdd4142664e9fa8539b1cbb40511f
+run_name: bedecked-gull-336
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753114668100
+status: 3
+tags: []
+user_id: soubh

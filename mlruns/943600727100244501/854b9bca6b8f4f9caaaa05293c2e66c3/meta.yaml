@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/soubh/OneDrive/Desktop/churn-project/mlruns/943600727100244501/854b9bca6b8f4f9caaaa05293c2e66c3/artifacts
+end_time: 1753114660023
+entry_point_name: ''
+experiment_id: '943600727100244501'
+lifecycle_stage: active
+run_id: 854b9bca6b8f4f9caaaa05293c2e66c3
+run_name: adaptable-turtle-545
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753114659481
+status: 3
+tags: []
+user_id: soubh

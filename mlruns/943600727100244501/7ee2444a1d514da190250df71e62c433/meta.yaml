@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/soubh/OneDrive/Desktop/churn-project/mlruns/943600727100244501/7ee2444a1d514da190250df71e62c433/artifacts
+end_time: 1753111537855
+entry_point_name: ''
+experiment_id: '943600727100244501'
+lifecycle_stage: active
+run_id: 7ee2444a1d514da190250df71e62c433
+run_name: powerful-cub-176
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753111536683
+status: 3
+tags: []
+user_id: soubh

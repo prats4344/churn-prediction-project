@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/soubh/OneDrive/Desktop/churn-project/mlruns/943600727100244501/4e5c035b865847d38f354904935d4cdb/artifacts
+end_time: 1753114660781
+entry_point_name: ''
+experiment_id: '943600727100244501'
+lifecycle_stage: active
+run_id: 4e5c035b865847d38f354904935d4cdb
+run_name: merciful-rook-237
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753114660041
+status: 3
+tags: []
+user_id: soubh

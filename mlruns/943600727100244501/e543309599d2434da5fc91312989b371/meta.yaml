@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/soubh/OneDrive/Desktop/churn-project/mlruns/943600727100244501/e543309599d2434da5fc91312989b371/artifacts
+end_time: 1753111243532
+entry_point_name: ''
+experiment_id: '943600727100244501'
+lifecycle_stage: active
+run_id: e543309599d2434da5fc91312989b371
+run_name: XGBoost_Baseline
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753111232231
+status: 3
+tags: []
+user_id: soubh

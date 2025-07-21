@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/soubh/OneDrive/Desktop/churn-project/mlruns/943600727100244501/7b0577d17bb34ce783ef01e5cbf66b1c/artifacts
+end_time: 1753111538290
+entry_point_name: ''
+experiment_id: '943600727100244501'
+lifecycle_stage: active
+run_id: 7b0577d17bb34ce783ef01e5cbf66b1c
+run_name: welcoming-shark-445
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753111537876
+status: 3
+tags: []
+user_id: soubh

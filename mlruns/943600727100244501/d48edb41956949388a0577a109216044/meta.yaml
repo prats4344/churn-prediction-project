@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/soubh/OneDrive/Desktop/churn-project/mlruns/943600727100244501/d48edb41956949388a0577a109216044/artifacts
+end_time: 1753114665527
+entry_point_name: ''
+experiment_id: '943600727100244501'
+lifecycle_stage: active
+run_id: d48edb41956949388a0577a109216044
+run_name: puzzled-loon-104
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753114664192
+status: 3
+tags: []
+user_id: soubh

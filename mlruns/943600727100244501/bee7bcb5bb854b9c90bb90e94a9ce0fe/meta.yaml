@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/soubh/OneDrive/Desktop/churn-project/mlruns/943600727100244501/bee7bcb5bb854b9c90bb90e94a9ce0fe/artifacts
+end_time: 1753114663522
+entry_point_name: ''
+experiment_id: '943600727100244501'
+lifecycle_stage: active
+run_id: bee7bcb5bb854b9c90bb90e94a9ce0fe
+run_name: merciful-wren-899
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753114663144
+status: 3
+tags: []
+user_id: soubh

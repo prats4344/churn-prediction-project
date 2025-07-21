@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/soubh/OneDrive/Desktop/churn-project/mlruns/943600727100244501/e99ef93d612e4d098752cb29c0ec4195/artifacts
+end_time: 1753111543251
+entry_point_name: ''
+experiment_id: '943600727100244501'
+lifecycle_stage: active
+run_id: e99ef93d612e4d098752cb29c0ec4195
+run_name: capricious-chimp-480
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753111542930
+status: 3
+tags: []
+user_id: soubh

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/soubh/OneDrive/Desktop/churn-project/mlruns/943600727100244501/58f838e15bb54cb7b2e1ff2d852a102f/artifacts
+end_time: 1753114669790
+entry_point_name: ''
+experiment_id: '943600727100244501'
+lifecycle_stage: active
+run_id: 58f838e15bb54cb7b2e1ff2d852a102f
+run_name: angry-shoat-245
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753114669154
+status: 3
+tags: []
+user_id: soubh

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/soubh/OneDrive/Desktop/churn-project/mlruns/943600727100244501/59ca378ce2cd4a9e9bd5b68bf70f38a7/artifacts
+end_time: 1753114664173
+entry_point_name: ''
+experiment_id: '943600727100244501'
+lifecycle_stage: active
+run_id: 59ca378ce2cd4a9e9bd5b68bf70f38a7
+run_name: big-whale-472
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753114663547
+status: 3
+tags: []
+user_id: soubh

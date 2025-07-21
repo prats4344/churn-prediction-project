@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/soubh/OneDrive/Desktop/churn-project/mlruns/943600727100244501/218918bd0e3a488283aea062598d4aa1/artifacts
+end_time: 1753114674102
+entry_point_name: ''
+experiment_id: '943600727100244501'
+lifecycle_stage: active
+run_id: 218918bd0e3a488283aea062598d4aa1
+run_name: redolent-auk-91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753114673035
+status: 3
+tags: []
+user_id: soubh

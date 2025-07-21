@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/soubh/OneDrive/Desktop/churn-project/mlruns/943600727100244501/332d8aef17784513b2c55bd5ec387255/artifacts
+end_time: 1753111532248
+entry_point_name: ''
+experiment_id: '943600727100244501'
+lifecycle_stage: active
+run_id: 332d8aef17784513b2c55bd5ec387255
+run_name: fearless-yak-336
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753111531721
+status: 3
+tags: []
+user_id: soubh

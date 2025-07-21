@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/soubh/OneDrive/Desktop/churn-project/mlruns/943600727100244501/c868ee29750e41dd87a1af4627694bcb/artifacts
+end_time: 1753111542909
+entry_point_name: ''
+experiment_id: '943600727100244501'
+lifecycle_stage: active
+run_id: c868ee29750e41dd87a1af4627694bcb
+run_name: whimsical-bee-374
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753111540484
+status: 3
+tags: []
+user_id: soubh

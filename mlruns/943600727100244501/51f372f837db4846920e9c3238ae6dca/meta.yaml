@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/soubh/OneDrive/Desktop/churn-project/mlruns/943600727100244501/51f372f837db4846920e9c3238ae6dca/artifacts
+end_time: 1753111536665
+entry_point_name: ''
+experiment_id: '943600727100244501'
+lifecycle_stage: active
+run_id: 51f372f837db4846920e9c3238ae6dca
+run_name: ambitious-rat-21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753111535757
+status: 3
+tags: []
+user_id: soubh

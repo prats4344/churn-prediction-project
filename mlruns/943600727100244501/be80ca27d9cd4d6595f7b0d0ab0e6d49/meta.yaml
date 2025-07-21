@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/soubh/OneDrive/Desktop/churn-project/mlruns/943600727100244501/be80ca27d9cd4d6595f7b0d0ab0e6d49/artifacts
+end_time: 1753111550749
+entry_point_name: ''
+experiment_id: '943600727100244501'
+lifecycle_stage: active
+run_id: be80ca27d9cd4d6595f7b0d0ab0e6d49
+run_name: likeable-bird-415
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753111549616
+status: 3
+tags: []
+user_id: soubh

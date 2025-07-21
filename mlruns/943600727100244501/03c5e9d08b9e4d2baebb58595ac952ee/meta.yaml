@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/soubh/OneDrive/Desktop/churn-project/mlruns/943600727100244501/03c5e9d08b9e4d2baebb58595ac952ee/artifacts
+end_time: 1753111540461
+entry_point_name: ''
+experiment_id: '943600727100244501'
+lifecycle_stage: active
+run_id: 03c5e9d08b9e4d2baebb58595ac952ee
+run_name: youthful-ant-255
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753111538307
+status: 3
+tags: []
+user_id: soubh

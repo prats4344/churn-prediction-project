@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/soubh/OneDrive/Desktop/churn-project/mlruns/943600727100244501/e66fa9ea5bfd4c5284cf24620dec925d/artifacts
+end_time: 1753114658573
+entry_point_name: ''
+experiment_id: '943600727100244501'
+lifecycle_stage: active
+run_id: e66fa9ea5bfd4c5284cf24620dec925d
+run_name: persistent-hound-891
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753114656180
+status: 3
+tags: []
+user_id: soubh

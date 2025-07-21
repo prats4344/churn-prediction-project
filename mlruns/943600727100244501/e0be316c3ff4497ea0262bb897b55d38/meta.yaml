@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/soubh/OneDrive/Desktop/churn-project/mlruns/943600727100244501/e0be316c3ff4497ea0262bb897b55d38/artifacts
+end_time: 1753114662459
+entry_point_name: ''
+experiment_id: '943600727100244501'
+lifecycle_stage: active
+run_id: e0be316c3ff4497ea0262bb897b55d38
+run_name: abundant-steed-922
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753114661516
+status: 3
+tags: []
+user_id: soubh

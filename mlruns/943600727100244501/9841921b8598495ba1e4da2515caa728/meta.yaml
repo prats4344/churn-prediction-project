@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/soubh/OneDrive/Desktop/churn-project/mlruns/943600727100244501/9841921b8598495ba1e4da2515caa728/artifacts
+end_time: 1753111549601
+entry_point_name: ''
+experiment_id: '943600727100244501'
+lifecycle_stage: active
+run_id: 9841921b8598495ba1e4da2515caa728
+run_name: handsome-auk-942
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753111548989
+status: 3
+tags: []
+user_id: soubh

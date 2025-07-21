@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/soubh/OneDrive/Desktop/churn-project/mlruns/943600727100244501/1904d3d5ad814b109287f66b0e1d1a32/artifacts
+end_time: 1753111548971
+entry_point_name: ''
+experiment_id: '943600727100244501'
+lifecycle_stage: active
+run_id: 1904d3d5ad814b109287f66b0e1d1a32
+run_name: casual-worm-864
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753111547659
+status: 3
+tags: []
+user_id: soubh

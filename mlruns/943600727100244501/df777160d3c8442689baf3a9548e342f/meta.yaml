@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/soubh/OneDrive/Desktop/churn-project/mlruns/943600727100244501/df777160d3c8442689baf3a9548e342f/artifacts
+end_time: 1753113788374
+entry_point_name: ''
+experiment_id: '943600727100244501'
+lifecycle_stage: active
+run_id: df777160d3c8442689baf3a9548e342f
+run_name: upset-tern-755
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753113788289
+status: 4
+tags: []
+user_id: soubh

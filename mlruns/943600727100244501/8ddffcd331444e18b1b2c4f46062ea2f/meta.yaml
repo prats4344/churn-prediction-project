@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/soubh/OneDrive/Desktop/churn-project/mlruns/943600727100244501/8ddffcd331444e18b1b2c4f46062ea2f/artifacts
+end_time: 1753114671650
+entry_point_name: ''
+experiment_id: '943600727100244501'
+lifecycle_stage: active
+run_id: 8ddffcd331444e18b1b2c4f46062ea2f
+run_name: worried-shrike-632
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753114671203
+status: 3
+tags: []
+user_id: soubh

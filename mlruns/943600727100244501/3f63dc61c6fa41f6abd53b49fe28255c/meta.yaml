@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/soubh/OneDrive/Desktop/churn-project/mlruns/943600727100244501/3f63dc61c6fa41f6abd53b49fe28255c/artifacts
+end_time: 1753114659112
+entry_point_name: ''
+experiment_id: '943600727100244501'
+lifecycle_stage: active
+run_id: 3f63dc61c6fa41f6abd53b49fe28255c
+run_name: luxuriant-calf-41
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753114658592
+status: 3
+tags: []
+user_id: soubh

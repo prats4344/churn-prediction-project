@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/soubh/OneDrive/Desktop/churn-project/mlruns/943600727100244501/models/m-bbf3813fddd649ea8bf0c384c788e58e/artifacts
+creation_timestamp: 1753111234293
+experiment_id: '943600727100244501'
+last_updated_timestamp: 1753111243311
+model_id: m-bbf3813fddd649ea8bf0c384c788e58e
+model_type: null
+name: xgboost-model
+source_run_id: e543309599d2434da5fc91312989b371
+status: 2
+status_message: null

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/soubh/OneDrive/Desktop/churn-project/mlruns/943600727100244501/b45925bb73e44c58adf469f76086e6b6/artifacts
+end_time: 1753111531703
+entry_point_name: ''
+experiment_id: '943600727100244501'
+lifecycle_stage: active
+run_id: b45925bb73e44c58adf469f76086e6b6
+run_name: rumbling-crane-100
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753111531237
+status: 3
+tags: []
+user_id: soubh

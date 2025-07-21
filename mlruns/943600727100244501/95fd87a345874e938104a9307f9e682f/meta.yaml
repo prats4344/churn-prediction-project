@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/soubh/OneDrive/Desktop/churn-project/mlruns/943600727100244501/95fd87a345874e938104a9307f9e682f/artifacts
+end_time: 1753114671186
+entry_point_name: ''
+experiment_id: '943600727100244501'
+lifecycle_stage: active
+run_id: 95fd87a345874e938104a9307f9e682f
+run_name: tasteful-skunk-237
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753114670409
+status: 3
+tags: []
+user_id: soubh

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/soubh/OneDrive/Desktop/churn-project/mlruns/943600727100244501/b6bdae9d08a5488dbe75c8ce2363c52e/artifacts
+end_time: 1753114670390
+entry_point_name: ''
+experiment_id: '943600727100244501'
+lifecycle_stage: active
+run_id: b6bdae9d08a5488dbe75c8ce2363c52e
+run_name: sassy-koi-197
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753114669808
+status: 3
+tags: []
+user_id: soubh

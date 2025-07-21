@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/soubh/OneDrive/Desktop/churn-project/mlruns/943600727100244501/08e2996012f4447a914110c91a6f7380/artifacts
+end_time: 1753114673017
+entry_point_name: ''
+experiment_id: '943600727100244501'
+lifecycle_stage: active
+run_id: 08e2996012f4447a914110c91a6f7380
+run_name: hilarious-rook-723
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753114671668
+status: 3
+tags: []
+user_id: soubh

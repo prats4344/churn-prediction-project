@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/soubh/OneDrive/Desktop/churn-project/mlruns/943600727100244501/ef5c6ff399ef4ea8b90ed28af5806298/artifacts
+end_time: 1753114668080
+entry_point_name: ''
+experiment_id: '943600727100244501'
+lifecycle_stage: active
+run_id: ef5c6ff399ef4ea8b90ed28af5806298
+run_name: fortunate-elk-476
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753114666778
+status: 3
+tags: []
+user_id: soubh

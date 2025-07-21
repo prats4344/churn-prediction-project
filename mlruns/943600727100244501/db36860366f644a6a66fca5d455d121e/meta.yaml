@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/soubh/OneDrive/Desktop/churn-project/mlruns/943600727100244501/db36860366f644a6a66fca5d455d121e/artifacts
+end_time: 1753114666756
+entry_point_name: ''
+experiment_id: '943600727100244501'
+lifecycle_stage: active
+run_id: db36860366f644a6a66fca5d455d121e
+run_name: lyrical-donkey-27
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753114665549
+status: 3
+tags: []
+user_id: soubh

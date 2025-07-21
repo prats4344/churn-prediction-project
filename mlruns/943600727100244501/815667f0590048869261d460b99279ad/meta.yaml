@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/soubh/OneDrive/Desktop/churn-project/mlruns/943600727100244501/815667f0590048869261d460b99279ad/artifacts
+end_time: 1753111547643
+entry_point_name: ''
+experiment_id: '943600727100244501'
+lifecycle_stage: active
+run_id: 815667f0590048869261d460b99279ad
+run_name: fearless-elk-26
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753111546860
+status: 3
+tags: []
+user_id: soubh

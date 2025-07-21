@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/soubh/OneDrive/Desktop/churn-project/mlruns/943600727100244501/b103c6f3640240ec803bef14a39624f8/artifacts
+end_time: 1753114090398
+entry_point_name: ''
+experiment_id: '943600727100244501'
+lifecycle_stage: active
+run_id: b103c6f3640240ec803bef14a39624f8
+run_name: sincere-gull-659
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753114090316
+status: 4
+tags: []
+user_id: soubh

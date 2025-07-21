@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/soubh/OneDrive/Desktop/churn-project/mlruns/943600727100244501/fd7ec6330c6b4a5cb549b30ec7331a0e/artifacts
+end_time: 1753111535743
+entry_point_name: ''
+experiment_id: '943600727100244501'
+lifecycle_stage: active
+run_id: fd7ec6330c6b4a5cb549b30ec7331a0e
+run_name: beautiful-fish-576
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753111535458
+status: 3
+tags: []
+user_id: soubh

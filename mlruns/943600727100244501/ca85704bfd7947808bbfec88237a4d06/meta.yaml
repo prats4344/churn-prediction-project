@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/soubh/OneDrive/Desktop/churn-project/mlruns/943600727100244501/ca85704bfd7947808bbfec88237a4d06/artifacts
+end_time: 1753114659457
+entry_point_name: ''
+experiment_id: '943600727100244501'
+lifecycle_stage: active
+run_id: ca85704bfd7947808bbfec88237a4d06
+run_name: wistful-horse-460
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753114659132
+status: 3
+tags: []
+user_id: soubh
