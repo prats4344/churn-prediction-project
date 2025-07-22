@@ -65,6 +65,22 @@ pip install -r requirements.txt
 
 ---
 
+## 4. Live Application & Deployment 🚀
+
+Experience the Customer Churn Prediction application live!
+
+- **Interactive Web App (Streamlit Frontend):**
+  Access the user interface where you can input customer details and get real-time churn predictions.
+  🔗 [**Launch App Here**](https://customer-churn-frontend.onrender.com)
+
+- **Prediction API (FastAPI Backend):**
+  This is the backend service powering the predictions. You can test its base URL directly (returns a welcome message).
+  🔗 [**API Endpoint**](https://customer-churn-api-nov6.onrender.com)
+
+Both the frontend and backend services are deployed on [Render.com](https://render.com/).
+
+---
+
 ## 🧠 Model Insights: Why Do Customers Churn?
 
 Using SHAP, we explain the model predictions:
@@ -82,4 +98,3 @@ Interpretation:
 
 ⭐ If you find this project useful, consider starring the repo!
 
->>>>>>> c3c3e569bb58b58247e0845dab28b75658742fd2
