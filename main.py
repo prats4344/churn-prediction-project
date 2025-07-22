@@ -1,3 +1,5 @@
+# main.py
+
 # 1. Import necessary libraries
 import pickle
 import json
@@ -37,8 +39,7 @@ app = FastAPI()
 # This allows your Streamlit frontend (on a different domain) to access this API
 origins = [
     "http://localhost:8501",  # Allows local Streamlit development to access
-    "https://your-streamlit-app-name.onrender.com", # IMPORTANT: REPLACE THIS with your actual Streamlit app URL on Render!
-    # Example: "https://customer-churn-frontend.onrender.com"
+    "https://customer-churn-frontend.onrender.com", # THIS IS YOUR ACTUAL STREAMLIT APP URL ON RENDER!
     # You can add other origins if your app will be accessed from other domains
 ]
 
