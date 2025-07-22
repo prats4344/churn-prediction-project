@@ -1,11 +1,19 @@
-# app.py
 import streamlit as st
 import requests
 import json
+import os # Import the 'os' module to access environment variables
 
 # --- App Title and Description ---
 st.title("Customer Churn Prediction")
 st.markdown("Enter customer details to predict whether they will churn.")
+
+# --- API URL (Get from environment variable for deployment) ---
+# In local development, if the environment variable 'FASTAPI_URL' is not set,
+# it will default to "http://127.0.0.1:8000".
+# On Render, you will set the 'FASTAPI_URL' environment variable for this Streamlit service
+# to point to the public URL of your deployed FastAPI backend.
+fastapi_base_url = os.getenv("FASTAPI_URL", "http://127.0.0.1:8000")
+api_url = f"{fastapi_base_url}/predict" # Construct the full API endpoint URL
 
 # --- Create Input Fields for User ---
 st.sidebar.header("Customer Input Features")
@@ -56,21 +64,25 @@ input_data = {
 
 # --- Prediction Button and Logic ---
 if st.button("Predict Churn"):
-    # The URL for our FastAPI endpoint
-    api_url = "http://127.0.0.1:8000/predict"
-
     # Send a POST request to the API with the user's data
-    response = requests.post(api_url, data=json.dumps(input_data))
+    try:
+        response = requests.post(api_url, data=json.dumps(input_data))
 
-    if response.status_code == 200:
-        result = response.json()
-        prediction = result['prediction']
-        probability = result['churn_probability']
+        if response.status_code == 200:
+            result = response.json()
+            prediction = result['prediction']
+            probability = result['churn_probability']
 
-        st.subheader("Prediction Result")
-        if prediction == "Churn":
-            st.error(f"Prediction: Customer will CHURN (Probability: {probability:.2f})")
+            st.subheader("Prediction Result")
+            if prediction == "Churn":
+                st.error(f"Prediction: Customer will CHURN (Probability: {probability:.2f})")
+            else:
+                st.success(f"Prediction: Customer will NOT CHURN (Probability: {1 - probability:.2f})")
         else:
-            st.success(f"Prediction: Customer will NOT CHURN (Probability: {1 - probability:.2f})")
-    else:
-        st.error("Error: Could not get a prediction. Is the API server running?")
+            # Display more detailed error from the API if available
+            st.error(f"Error from API: Status Code {response.status_code}. Response: {response.text}")
+            st.error("Error: Could not get a prediction. Check the API server and its URL.")
+    except requests.exceptions.ConnectionError:
+        st.error("Could not connect to the prediction API. Ensure the backend is running and accessible.")
+    except Exception as e:
+        st.error(f"An unexpected error occurred: {e}")

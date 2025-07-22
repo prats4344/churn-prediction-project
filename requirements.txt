@@ -2,9 +2,8 @@ pandas
 numpy
 matplotlib
 seaborn
-jupyterlab
 scikit-learn
-mlflow
+mlflow # Keep if your app interacts with MLflow during inference, otherwise can remove.
 xgboost
 optuna
 shap
@@ -13,3 +12,5 @@ requests
 fastapi
 uvicorn
 pydantic
+gunicorn # Added for production-ready FastAPI
+joblib 
